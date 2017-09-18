@@ -1,4 +1,4 @@
-# Triggered
+# Harambe Game
 _an original game boy advance game written in C_
 
 _runs on game boy advance emulator on Linux_
